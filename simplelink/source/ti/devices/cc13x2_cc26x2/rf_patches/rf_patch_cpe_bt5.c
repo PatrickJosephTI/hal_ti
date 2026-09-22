@@ -1,5 +1,6 @@
 /******************************************************************************
 *  Filename:       rf_patch_cpe_bt5.c
+*******************************************************************************
 *
 *  Description: RF core patch for Bluetooth 5 support ("BLE" and "BLE5" API command sets) in CC13x2 and CC26x2
 *

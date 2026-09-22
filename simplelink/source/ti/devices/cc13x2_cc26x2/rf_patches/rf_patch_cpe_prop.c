@@ -1,5 +1,6 @@
 /******************************************************************************
 *  Filename:       rf_patch_cpe_prop.c
+*******************************************************************************
 *
 *  Description: RF core patch for proprietary radio support ("PROP" API command set) in CC13x2 and CC26x2
 *

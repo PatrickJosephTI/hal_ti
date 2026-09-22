@@ -1,5 +1,6 @@
 /******************************************************************************
 *  Filename:       rf_patch_cpe_multi_bt5_coex.h
+*******************************************************************************
 *
 *  Description: RF core patch for coexistence support for Bluetooth 5 ("BLE" and "BLE5" API command sets) in CC13x2 and CC26x2
 *

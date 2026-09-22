@@ -1,5 +1,6 @@
 /******************************************************************************
 *  Filename:       rf_patch_cpe_multi_protocol.c
+*******************************************************************************
 *
 *  Description: RF core patch for multi-protocol support (all available API command sets) in CC13x2 and CC26x2
 *

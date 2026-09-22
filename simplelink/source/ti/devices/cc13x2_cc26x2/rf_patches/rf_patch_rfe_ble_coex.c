@@ -1,5 +1,6 @@
 /******************************************************************************
 *  Filename:       rf_patch_rfe_ble_coex.h
+*******************************************************************************
 *
 *  Description: RF core patch for coexistence support for Bluetooth 5 in CC13x2 and CC26x2.
 *
